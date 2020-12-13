@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="usergo">
+    <block >
+      <image bindtap="bindViewGo" class="usergo-image" src="{{userInfo.avatarUrl}}" mode="cover"></image>
+      
+    </block>
+  </view>
+  <view class="usergo">
+    <text class="gotext">{{go123}}</text>
+    </view>
+</view>

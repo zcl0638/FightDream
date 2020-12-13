@@ -1,0 +1,6 @@
+/* pages/go/go.wxss */
+.gotext {
+  font-size: 200rpx;
+
+  color: red;
+}
